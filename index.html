@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Simple live editor">
+    <link rel="icon" href="assets/favicon.ico" />
+    <link rel="stylesheet" type="text/css" href="src/styles.scss"/>
+    <title>Jcdle - Simple live editor</title>
+</head>
+
+    <body>
+        
+        <!-- CONTAINER -->
+        <main class="container">
+            
+            <!-- TITLE -->
+            <h1 class="title">Simple Live Editor</h1>
+
+            <!-- NOTICE -->
+            <p class="notice">Enter your html code, it will be live interpreted.</p>
+
+            <!-- EDITOR -->
+            <div class="editor">
+
+                <!-- USER INPUT -->
+                <textarea class="editor__input"></textarea>
+
+                <!-- RESULT PART - WITH DEFAULT EXEMPLE -->
+                <div class="editor__result"><img style="width: 150px; align-self: center;" src="https://media.giphy.com/media/26xBukhJ0i8KXADYc/giphy.gif" alt="hello image">
+<p style="text-align: center; font-weight: bold;">This is your code, live interpreted.</p> 
+                </div>
+
+            </div>
+
+        </main>
+        
+        <script src="src/index.js"></script>
+
+    </body>
+
+</html>
