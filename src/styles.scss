@@ -99,7 +99,7 @@ p {
     &__input {
 
         width: 100%;
-        height: 200px;
+        height: 300px;
         resize: none;
         background-color: $first-color;
         border-radius: 10px;
@@ -114,7 +114,6 @@ p {
         display: flex;
         flex-direction: column;
         width: 100%;
-        height: 200px;
         background-color: $first-color;
         overflow: scroll;
         word-break: break-all;
