@@ -32,7 +32,7 @@
 <br>
 
 <p align="center">
- <img src="./assets/simple-live-editor-gihub.gif" alt="app gif quick demo" />
+ <img width="100%" src="./assets/simple-live-editor-gihub.gif" alt="app gif quick demo" />
 </p>
 
 <br>
