@@ -52,10 +52,10 @@
 ```bash
 
 # Clone this repository
-$ git clone https://github.com/JulieCardinale/html-live-editor.git
+$ git clone https://github.com/JulieCardinale/simple-live-editor.git
 
 # Go into the repository
-$ cd html-live-editor
+$ cd simple-live-editor
 
 # Install dependencies
 $ yarn
