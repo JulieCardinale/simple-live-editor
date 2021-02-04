@@ -25,7 +25,7 @@
 
 <p align="center">
   <a href="https://jcdle-html-live-editor.netlify.app/" target="_blank" rel="noopener noreferrer">Online version</a> •
-  <a href="#main-feature">Main Feature</a> •
+  <a href="#main-feature">Main Features</a> •
   <a href="#run-the-app">Run the app</a>
 </p>
 
@@ -37,9 +37,7 @@
 
 <br>
 
-## Main Feature
-
-<br>
+## Main Features
 
 * Enter a HTML code, it's automatically interpreted.
 
@@ -93,8 +91,6 @@
 <br>
 
 ## Run the app
-
-<br>
 
 ```bash
 
