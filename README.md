@@ -25,7 +25,7 @@
 
 <p align="center">
   <a href="https://jcdle-html-live-editor.netlify.app/" target="_blank" rel="noopener noreferrer">Online version</a> •
-  <a href="#main-feature">Main Features</a> •
+  <a href="#main-features">Main Features</a> •
   <a href="#run-the-app">Run the app</a>
 </p>
 
