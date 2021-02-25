@@ -41,7 +41,7 @@
 
 * Enter a HTML code, it's automatically interpreted.
 
-* Codes snippets from video :
+* Code snippets from video :
 
 ```html
 <div style="text-align:center; align-self: center;">
